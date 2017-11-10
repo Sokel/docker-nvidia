@@ -1,6 +1,6 @@
 FROM ubuntu:17.04
 
-LABEL maintainer="Alexandre Buisine <alexandrejabuisine@gmail.com>"
+LABEL maintainer="Anton Shchukin <szwtdy@gmail.com>"
 LABEL version="17.04-375.66-3"
 LABEL com.prometheus.monitoring="true" com.prometheus.port="9090"
 
