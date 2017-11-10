@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-LABEL maintainer="Alexandre Buisine <alexandrejabuisine@gmail.com>"
+LABEL maintainer="Anton Shchukin <szwtdy@gmail.com>"
 
 COPY resources/etc/OpenCL/vendors/nvidia.icd /etc/OpenCL/vendors/nvidia.icd
 COPY resources/usr/bin/nvidia-smi /usr/bin/nvidia-smi
